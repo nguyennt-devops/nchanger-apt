@@ -1,0 +1,28 @@
+{
+  "package": "com.ios.nchanger",
+  "version": "0.1.13",
+  "architecture": "iphoneos-arm64",
+  "suite": "stable",
+  "codename": "stable",
+  "origin": "NChanger",
+  "label": "NChanger",
+  "signed": false,
+  "keyId": null,
+  "artifacts": [
+    {
+      "path": "main/binary-iphoneos-arm64/Packages",
+      "bytes": 382,
+      "sha256": "72ca9fa5bf270450539ed04df6affd8717cc679669e89691e395016ab7904b0f"
+    },
+    {
+      "path": "main/binary-iphoneos-arm64/Packages.gz",
+      "bytes": 283,
+      "sha256": "758036cb2d3131a877ed0358a0e7dc4af6094b963efae0ee459fb9099ff35f24"
+    },
+    {
+      "path": "pool/main/n/com.ios.nchanger_0.1.13_iphoneos-arm64.deb",
+      "bytes": 17638512,
+      "sha256": "daacb32a3c84ba56b347fdea2eaa69190c1858f2fa3c7a74747d13bb7f9246c9"
+    }
+  ]
+}
