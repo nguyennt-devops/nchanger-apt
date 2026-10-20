@@ -6,14 +6,14 @@ Codename: stable
 Architectures: iphoneos-arm64
 Components: main
 Description: NChanger jailbreak package repository
-Date: Tue, 20 Oct 2026 22:17:38 +0000
+Date: Tue, 20 Oct 2026 22:28:41 +0000
 MD5Sum:
- 7494824e44903236cbb4ec9e118f72c3 465 Packages
- 79bc2c5465a68035b2ea5b23d5ca5c1b 339 Packages.gz
- cc5c06781a980416c3fc10a0e77137cc 378 Packages.bz2
- 52e1010275a12fe331bf4a31a6eba728 408 Packages.xz
+ 4104c1baf2fdc5799adb1568304cb0d9 542 Packages
+ 52a89b48bd3d31db9a479cc5fab602ea 364 Packages.gz
+ 3081db3e4dca48c8783455916937685c 406 Packages.bz2
+ fdbe33eab1a6091a4d33dfb9dc9a1f41 432 Packages.xz
 SHA256:
- 5b918fe0cc90de2fd1197a1fc9cc32a2de5ebdf6045cdb343cd6f79c4d7c72a3 465 Packages
- f8e12e8260646bc9947ceb8f401c1e35831eb7eaec9da3951f0479857dc862cf 339 Packages.gz
- e0df8a439190d7a30863fe0be6721b6ed6ed10663281f3ac417924998636824f 378 Packages.bz2
- 74ffeb948b2d8ece0a77203ddb3bca7b20e352b1f8b1a07fcfb20cd2d0e754ff 408 Packages.xz
+ 200414bbab6ab8c81ea9659246d82a1e03740e8ad4422a120a2b5ab5a7327061 542 Packages
+ 212b8365b5ba6c1ea7a7b5a2fd4dd4927b2badc251583a465acd5637e516d376 364 Packages.gz
+ 9b987eb79c4c2bf7e96d6c4ed011f29f4240557114a72309a8d825231ee730c2 406 Packages.bz2
+ 13ed8622f864f8eb087d5da102e4d82ea6d308cdb52d94798c432d55fc9b49db 432 Packages.xz
