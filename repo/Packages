@@ -6,7 +6,7 @@ Maintainer: NChanger
 Depends: ellekit, ldid, com.opa334.libsandy
 Section: Tweaks
 Filename: pool/main/n/com.ios.nchanger_0.1.14_iphoneos-arm64.deb
-Size: 17638520
-SHA256: e4f1c3274350c5c84918fd0a6a3531ded3663d96ab7a4b70ee6d4dc1f8a482fa
+Size: 17638660
+SHA256: f9e23810c0706cdb697eef71cb03829fac1696ea4381fc6fc017a0744f101cec
 Description: NChanger identity profiles and native reporting
 
