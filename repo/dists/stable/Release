@@ -2,12 +2,14 @@ Origin: NChanger
 Label: NChanger
 Suite: stable
 Codename: stable
+Version: 1.0
 Architectures: iphoneos-arm64
 Components: main
+Date: Tue, 20 Oct 2026 21:37:28 +0000
 Description: NChanger jailbreak package repository
 MD5Sum:
- 9624392dc15c5fa4cc993e98c23a737d 382 main/binary-iphoneos-arm64/Packages
- fd4ee1214161b6a91c5d6d135706f14c 283 main/binary-iphoneos-arm64/Packages.gz
+ fa8a33cb73c463853a28a080169bdf1d 382 main/binary-iphoneos-arm64/Packages
+ b4aee466da014a544f8f77db6b00c9e6 284 main/binary-iphoneos-arm64/Packages.gz
 SHA256:
- 72ca9fa5bf270450539ed04df6affd8717cc679669e89691e395016ab7904b0f 382 main/binary-iphoneos-arm64/Packages
- 758036cb2d3131a877ed0358a0e7dc4af6094b963efae0ee459fb9099ff35f24 283 main/binary-iphoneos-arm64/Packages.gz
+ b4a751ff2833eedab46fa10ca73789741a65b5c52b979e349b0797e61b52b837 382 main/binary-iphoneos-arm64/Packages
+ a4e5c41b425aaeabdf8c21e8b8e9f77694dc7e6ade3b5c20ec19f0e9288b03d7 284 main/binary-iphoneos-arm64/Packages.gz
