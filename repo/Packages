@@ -1,14 +1,27 @@
 Package: com.ios.nchanger
 Name: NChanger
-Version: 0.1.17
+Version: 0.1.19
 Architecture: iphoneos-arm64
 Maintainer: NChanger
-Depends: ellekit, ldid, com.opa334.libsandy, firmware (>= 15.0), uikittools, mobilesubstrate | ellekit
 Section: Tweaks
-X-NChanger-Components: com.ios.nchanger, com.ios.nauto
-X-NChanger-Bundled-Independent: com.ios.nauto
-Filename: pool/main/n/com.ios.nchanger_0.1.17_iphoneos-arm64.deb
-Size: 25245350
-SHA256: 1efe5677886a75ff1cad33dd3418205ce0d3ac88c0870b4fc303c64e7712c79e
+Depends: ellekit, ldid, com.opa334.libsandy
+Filename: pool/main/n/com.ios.nchanger_0.1.19_iphoneos-arm64.deb
+Size: 17638652
+SHA256: 42620d5e183c38f16b91c9d505cc0d19109b9ac7d8a0dbef03371f881e721cc3
 Description: NChanger identity profiles and native reporting
+
+Package: com.ios.nauto
+Name: NAuto
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: Local source reconstruction
+Section: Development
+Depends: firmware (>= 15.0), uikittools, mobilesubstrate | ellekit, com.opa334.libsandy
+Conflicts: com.iosauto.rebuild
+Replaces: com.iosauto.rebuild
+Filename: pool/main/n/com.ios.nauto_0.1.1_iphoneos-arm64.deb
+Size: 7613802
+SHA256: bd6e7ae636ce5e1a6c88540bd7970849dfb957e14765f19a9b3cc534a1b78c52
+Description: Independent UIKit app, script workers, system helper and Web IDE
+ Source-built reconstruction; original executable and probe code excluded.
 
