@@ -1,6 +1,6 @@
 {
   "package": "com.ios.nchanger",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "architecture": "iphoneos-arm64",
   "suite": "stable",
   "codename": "stable",
@@ -11,43 +11,43 @@
   "artifacts": [
     {
       "path": "Packages",
-      "bytes": 382,
-      "sha256": "d40a9ecfe042a939c63dd5daff774f8139c66e2f2dfbb8aea067ee94a68baa17"
+      "bytes": 465,
+      "sha256": "5b918fe0cc90de2fd1197a1fc9cc32a2de5ebdf6045cdb343cd6f79c4d7c72a3"
     },
     {
       "path": "Packages.gz",
-      "bytes": 283,
-      "sha256": "847f382e7d7b78d791a2813e01b265596ab94f9c4d9f4a36bf66ec7c36dc1bee"
+      "bytes": 339,
+      "sha256": "f8e12e8260646bc9947ceb8f401c1e35831eb7eaec9da3951f0479857dc862cf"
     },
     {
       "path": "Packages.bz2",
-      "bytes": 320,
-      "sha256": "fca86f5003f7c4c5638b89fcd6b966a63d0e27236810ca3711b0172d650af004"
+      "bytes": 378,
+      "sha256": "e0df8a439190d7a30863fe0be6721b6ed6ed10663281f3ac417924998636824f"
     },
     {
       "path": "Packages.xz",
-      "bytes": 348,
-      "sha256": "b3552cadb1b9d00c8c28c435edfa4467bc3112cb919dccb9dc40476c57f1ce9c"
+      "bytes": 408,
+      "sha256": "74ffeb948b2d8ece0a77203ddb3bca7b20e352b1f8b1a07fcfb20cd2d0e754ff"
     },
     {
       "path": "Release",
       "bytes": 753,
-      "sha256": "a1578dbb6fc07b6d80535b581697f44e3e87145646d30c23ede06d3f41cfb9c9"
+      "sha256": "bca85f0ee488a6a2f77a6d6b38886c7551b64707f4c20c7f2ceaca2d7e6fff13"
     },
     {
       "path": "main/binary-iphoneos-arm64/Packages",
-      "bytes": 382,
-      "sha256": "d40a9ecfe042a939c63dd5daff774f8139c66e2f2dfbb8aea067ee94a68baa17"
+      "bytes": 465,
+      "sha256": "5b918fe0cc90de2fd1197a1fc9cc32a2de5ebdf6045cdb343cd6f79c4d7c72a3"
     },
     {
       "path": "main/binary-iphoneos-arm64/Packages.gz",
-      "bytes": 283,
-      "sha256": "847f382e7d7b78d791a2813e01b265596ab94f9c4d9f4a36bf66ec7c36dc1bee"
+      "bytes": 339,
+      "sha256": "f8e12e8260646bc9947ceb8f401c1e35831eb7eaec9da3951f0479857dc862cf"
     },
     {
-      "path": "pool/main/n/com.ios.nchanger_0.1.14_iphoneos-arm64.deb",
-      "bytes": 17638660,
-      "sha256": "f9e23810c0706cdb697eef71cb03829fac1696ea4381fc6fc017a0744f101cec"
+      "path": "pool/main/n/com.ios.nchanger_0.1.15_iphoneos-arm64.deb",
+      "bytes": 25245336,
+      "sha256": "166ea6ccab8136bf235ddd7f624533242b84809eb3a201e8b65c31cfd158955d"
     }
   ]
 }
