@@ -9,11 +9,11 @@
     {
       "package": "com.ios.nchanger",
       "name": "NChanger",
-      "version": "0.1.19",
+      "version": "0.1.20",
       "architecture": "iphoneos-arm64",
-      "file": "pool/main/n/com.ios.nchanger_0.1.19_iphoneos-arm64.deb",
-      "bytes": 17638652,
-      "sha256": "42620d5e183c38f16b91c9d505cc0d19109b9ac7d8a0dbef03371f881e721cc3"
+      "file": "pool/main/n/com.ios.nchanger_0.1.20_iphoneos-arm64.deb",
+      "bytes": 17641062,
+      "sha256": "aa6bf1b0f1c8fface9d7bcd4d581f93137a64f053cdab56137ff6a08f88081d0"
     },
     {
       "package": "com.ios.nauto",
@@ -29,32 +29,32 @@
     {
       "path": "Packages",
       "bytes": 973,
-      "sha256": "6ef5b00f6bedff6fafc81a818d8fcb89a503b9eee37991b0641dcfd38510dfcc"
+      "sha256": "53b233a660de7895540c76038e8ad7d7654094be748083348c804bfecedd7549"
     },
     {
       "path": "Packages.gz",
-      "bytes": 546,
-      "sha256": "3ecffd75ca0a283156040e1771bb1020a908ed16b896cdf110fc75dfc78f3b22"
+      "bytes": 547,
+      "sha256": "77fdabc499df11d04a74e3894d509ad9a8c07258616214d36e2a2fa63782b065"
     },
     {
       "path": "Packages.bz2",
-      "bytes": 628,
-      "sha256": "bcc626eb6af8959e86ba01c06830b331262fbb2971e47899c6481c7ad0c705f4"
+      "bytes": 623,
+      "sha256": "c2043c043740cc56df852ab0dc7d9b56999dd728a2af3a530c3508d98a8e8c42"
     },
     {
       "path": "Packages.xz",
-      "bytes": 620,
-      "sha256": "70b02c8dd191b3f29db683c087cd35b0dee540daa6f494e79a152396981ce1ab"
+      "bytes": 624,
+      "sha256": "c7f749624f54053c4d8c444bc7137831675c66cf16d12d8f9b30cdebcf55532a"
     },
     {
       "path": "main/binary-iphoneos-arm64/Packages",
       "bytes": 973,
-      "sha256": "6ef5b00f6bedff6fafc81a818d8fcb89a503b9eee37991b0641dcfd38510dfcc"
+      "sha256": "53b233a660de7895540c76038e8ad7d7654094be748083348c804bfecedd7549"
     },
     {
       "path": "main/binary-iphoneos-arm64/Packages.gz",
-      "bytes": 546,
-      "sha256": "3ecffd75ca0a283156040e1771bb1020a908ed16b896cdf110fc75dfc78f3b22"
+      "bytes": 547,
+      "sha256": "77fdabc499df11d04a74e3894d509ad9a8c07258616214d36e2a2fa63782b065"
     }
   ]
 }
