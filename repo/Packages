@@ -12,7 +12,7 @@ SHA256: 35bf4ffe968f564301e1e8a5e535b33de41751e9d75cf44c924c02aa1dae55f2
 
 Package: com.ios.nauto
 Name: NAuto
-Version: 0.1.4
+Version: 0.1.5
 Architecture: iphoneos-arm64
 Section: Development
 Maintainer: Local source reconstruction
@@ -21,7 +21,7 @@ Conflicts: com.iosauto.rebuild
 Replaces: com.iosauto.rebuild
 Description: Independent UIKit app, script workers, system helper and Web IDE
  Source-built reconstruction; original executable and probe code excluded.
-Filename: pool/main/n/com.ios.nauto_0.1.4_iphoneos-arm64.deb
-Size: 7600790
-SHA256: 51a21e2c4f82204aee049fd57c824503628c4801673f24f2ba143a0fa46c235f
+Filename: pool/main/n/com.ios.nauto_0.1.5_iphoneos-arm64.deb
+Size: 7610162
+SHA256: 26ad7c1e2898a0db1594fee08860177ed0911d1370216ea2863861b934004d16
 
