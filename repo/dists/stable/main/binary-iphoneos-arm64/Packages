@@ -1,14 +1,14 @@
 Package: com.ios.nchanger
 Name: NChanger
-Version: 0.1.78
+Version: 0.1.99
 Architecture: iphoneos-arm64
+Description: NChanger identity profiles and native reporting
 Maintainer: NChanger
 Section: Tweaks
 Depends: ellekit, ldid, com.opa334.libsandy
-Filename: pool/main/n/com.ios.nchanger_0.1.78_iphoneos-arm64.deb
-Size: 17769824
-SHA256: 2a6eb562e0a71bc28755d23401cbfb939a531a12a4cd4a02175ebabcbd1b27a9
-Description: NChanger identity profiles and native reporting
+Filename: pool/main/n/com.ios.nchanger_0.1.99_iphoneos-arm64.deb
+Size: 17771284
+SHA256: 35bf4ffe968f564301e1e8a5e535b33de41751e9d75cf44c924c02aa1dae55f2
 
 Package: com.ios.nauto
 Name: NAuto
