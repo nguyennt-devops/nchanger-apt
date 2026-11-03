@@ -6,14 +6,10 @@ Version: 1.0
 Architectures: iphoneos-arm64
 Components: main
 Description: NChanger APT repository
-Date: Fri, 30 Oct 2026 13:04:21 +0000
+Date: Tue, 03 Nov 2026 17:22:17 +0000
 MD5Sum:
- 9c1a076c571afe380cb3f65219b8366d 975 main/binary-iphoneos-arm64/Packages
- 0a6bd1f4d52196f189c51153a25dabeb 548 main/binary-iphoneos-arm64/Packages.gz
- c6f3845aee7242a3e18d74c3a4ff35b0 628 main/binary-iphoneos-arm64/Packages.bz2
- 20fb2c1fc358170ec8653c58913e3a48 624 main/binary-iphoneos-arm64/Packages.xz
+ d18f08b4f3282eb9bee4be4260802ce6 977 main/binary-iphoneos-arm64/Packages
+ 55ea2305805888a5419296c6c6b8759a 548 main/binary-iphoneos-arm64/Packages.gz
 SHA256:
- df2e4baa36a97ab88a50c682d9f87f333620be2b5d1164d9ab8b7e816c16f87d 975 main/binary-iphoneos-arm64/Packages
- 380af2c3e7e46c13dd21d1d4650bc17ba0df991cfe1c6a9b21183ef58fe860c2 548 main/binary-iphoneos-arm64/Packages.gz
- 6f0936bceaf0f480a502c25b3af9bdcb0c94a54a1ecd3868f16f66804b0b68fa 628 main/binary-iphoneos-arm64/Packages.bz2
- d9676f3edc9a3ebdfdea15e3c200a7e4594dc6b09221b57abf0e4f2d347e44f5 624 main/binary-iphoneos-arm64/Packages.xz
+ 0535661bc5dfdea036b801954257f8c2f0811567b0505eb49f8be67349f7ed04 977 main/binary-iphoneos-arm64/Packages
+ 74e2f574b2d039aadd99ada8baf0124d2e24620e3d2455ee0cb5def6fa0b1d99 548 main/binary-iphoneos-arm64/Packages.gz
