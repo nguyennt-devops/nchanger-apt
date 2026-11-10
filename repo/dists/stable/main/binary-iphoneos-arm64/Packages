@@ -25,3 +25,16 @@ Filename: pool/main/n/com.ios.nauto_0.1.23_iphoneos-arm64.deb
 Size: 7675434
 SHA256: db79e1b2ac5924894647b0fb675537a019b6f4a0a4d3039b559c33ccc77b5ed9
 
+Package: com.ios.iosauto
+Name: IOSAuto
+Version: 0.1.35
+Architecture: iphoneos-arm64
+Section: Development
+Maintainer: Local source reconstruction
+Depends: firmware (>= 15.0), uikittools, mobilesubstrate | ellekit, com.opa334.libsandy
+Description: Independent UIKit app, script workers, system helper and Web IDE
+ Source-built reconstruction; original executable and probe code excluded.
+Filename: pool/main/i/com.ios.iosauto_0.1.35_iphoneos-arm64.deb
+Size: 6889508
+SHA256: f0f85fb798dc03b4d225c715fb09663c02d349d7f54e082569bdf3845843e54a
+
