@@ -27,62 +27,62 @@
     {
       "package": "com.ios.iosauto",
       "name": "IOSAuto",
-      "version": "0.1.35",
+      "version": "1.0.25",
       "architecture": "iphoneos-arm64",
-      "file": "pool/main/i/com.ios.iosauto_0.1.35_iphoneos-arm64.deb",
-      "bytes": 6889508,
-      "sha256": "f0f85fb798dc03b4d225c715fb09663c02d349d7f54e082569bdf3845843e54a"
+      "file": "pool/main/i/com.ios.iosauto_1.0.25_iphoneos-arm64.deb",
+      "bytes": 6889764,
+      "sha256": "e4b21122dd364b65fafb4a7e68ee631dd78ce8fd2d1ea35c84102942c4796531"
     }
   ],
   "indexes": [
     {
       "path": "Packages",
-      "sha256": "02fe15faa68982b516189c9ad4d1f6ce60459674d8c701fc207cbf749544244a",
+      "sha256": "8956105bab6b275bf83f5405d62fe829a082a557565045e805d90a931ca9e8ea",
       "bytes": 1515
     },
     {
       "path": "Packages.gz",
-      "sha256": "eac4731b079f9089ce382a1753912e6393b837a00f13de6fdce42d8a0c6e48da",
-      "bytes": 633
+      "sha256": "1f7d1ed15c3360522e96ac440aef59c9b24d691890462678eaa07b6a19b68da9",
+      "bytes": 636
     },
     {
       "path": "Packages.bz2",
-      "sha256": "ab82451d75b79cc5b1ac85a739dbf7a3d0a0efb01c7177fd9e6fd3c542a09ba0",
-      "bytes": 770
+      "sha256": "094bd8ceef6da57bdf46e2422b24109389faef87cbd1913035bb40b9dcdc3377",
+      "bytes": 775
     },
     {
       "path": "Packages.xz",
-      "sha256": "74f0e45bcf11b18c1a7de544880dbf926bd71596be0e208048e6b7c9a49a0cd3",
-      "bytes": 700
+      "sha256": "34ef3ec0f14b0b5161b80fffa3cd1f9295cbf7a6ba861297294a758ead376be7",
+      "bytes": 704
     },
     {
       "path": "dists/stable/main/binary-iphoneos-arm64/Packages",
-      "sha256": "02fe15faa68982b516189c9ad4d1f6ce60459674d8c701fc207cbf749544244a",
+      "sha256": "8956105bab6b275bf83f5405d62fe829a082a557565045e805d90a931ca9e8ea",
       "bytes": 1515
     },
     {
       "path": "dists/stable/main/binary-iphoneos-arm64/Packages.gz",
-      "sha256": "eac4731b079f9089ce382a1753912e6393b837a00f13de6fdce42d8a0c6e48da",
-      "bytes": 633
+      "sha256": "1f7d1ed15c3360522e96ac440aef59c9b24d691890462678eaa07b6a19b68da9",
+      "bytes": 636
     },
     {
       "path": "dists/stable/main/binary-iphoneos-arm64/Packages.bz2",
-      "sha256": "ab82451d75b79cc5b1ac85a739dbf7a3d0a0efb01c7177fd9e6fd3c542a09ba0",
-      "bytes": 770
+      "sha256": "094bd8ceef6da57bdf46e2422b24109389faef87cbd1913035bb40b9dcdc3377",
+      "bytes": 775
     },
     {
       "path": "dists/stable/main/binary-iphoneos-arm64/Packages.xz",
-      "sha256": "74f0e45bcf11b18c1a7de544880dbf926bd71596be0e208048e6b7c9a49a0cd3",
-      "bytes": 700
+      "sha256": "34ef3ec0f14b0b5161b80fffa3cd1f9295cbf7a6ba861297294a758ead376be7",
+      "bytes": 704
     },
     {
       "path": "Release",
-      "sha256": "1f0e38edaef595cf5b2335d366b3c6ff3549e19ddcbf5432da8010bee3f32992",
+      "sha256": "515aacdc1109ed3e2808c12b1943af27e5bf0b9423f4044bbfa05cc12a9ae8c5",
       "bytes": 741
     },
     {
       "path": "dists/stable/Release",
-      "sha256": "b3db3bd1651a0ab2c0e59609d210ebd115a1bde9f7f9c02dd7d2a06d5a180b9a",
+      "sha256": "d8996163e59f51fe48fa735cdddd8ec29bd4b33359db5015823ded1acaf6ddca",
       "bytes": 957
     }
   ]
