@@ -38,3 +38,17 @@ Filename: pool/main/i/com.ios.iosauto_1.0.25_iphoneos-arm64.deb
 Size: 6889764
 SHA256: e4b21122dd364b65fafb4a7e68ee631dd78ce8fd2d1ea35c84102942c4796531
 
+Package: com.ios.iosfake
+Name: IOSFake
+Version: 0.1.278
+Architecture: iphoneos-arm64
+Conflicts: com.vip.iosfake, com.ios.nchanger, com.vip.ioscore
+X-Reconstruction-Of: com.vip.iosfake/2.0.0
+Description: IOSFake source reconstruction
+Maintainer: IOSFake
+Section: Tweaks
+Depends: ellekit, ldid, com.opa334.libsandy
+Filename: pool/main/n/com.ios.iosfake_0.1.278_iphoneos-arm64.deb
+Size: 17908804
+SHA256: 945fcffd3aefc7b02f5c9a6ad6832db757426ec1effa41c3702280615e8efaa5
+
