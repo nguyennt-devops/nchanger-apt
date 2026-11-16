@@ -1,6 +1,6 @@
 Package: com.ios.iosauto
 Name: IOSAuto
-Version: 1.0.39
+Version: 1.0.40
 Architecture: iphoneos-arm64
 Section: Development
 Maintainer: Local source reconstruction
@@ -8,9 +8,9 @@ Icon: https://repo.nguyennt.store/repo/icons/com.ios.iosauto.png
 Depends: firmware (>= 15.0), uikittools, mobilesubstrate | ellekit, com.opa334.libsandy
 Description: Independent UIKit app, script workers, system helper and Web IDE
  Source-built reconstruction; original executable and probe code excluded.
-Filename: pool/main/i/com.ios.iosauto_1.0.39_iphoneos-arm64.deb
-Size: 7058334
-SHA256: 680d002023b8dc16003b03fcfc963e0eed490671b9c8ce5099f89fc586ba159c
+Filename: pool/main/i/com.ios.iosauto_1.0.40_iphoneos-arm64.deb
+Size: 7057968
+SHA256: 4a26194b11a6625d8e1e58b05db822f4be0d5da84daf17900fbc3d3be793f9ac
 
 Package: com.ios.iosfake
 Name: IOSFake
