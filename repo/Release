@@ -6,14 +6,14 @@ Codename: stable
 Architectures: iphoneos-arm64
 Components: main
 Description: NChanger APT repository
-Date: Fri, 13 Nov 2026 18:03:13 +0000
+Date: Mon, 16 Nov 2026 14:48:10 +0000
 MD5Sum:
- 3c7f6e6a5d15a32f0b9c07aa144ba26e 1005 Packages
- bbdbfcc7adbc6b4eac9563ef92667ce4 552 Packages.gz
- e8a04ab3f65cc456d2e899914bc040b3 638 Packages.bz2
- e442e4fdfe03cfbdfa46332b3680fb80 624 Packages.xz
+ 6d9a11d24819b1074e49c1ee150b8e0e 1005 Packages
+ b300d1152d8207ca43b4d25090dcfb01 553 Packages.gz
+ e32c0161708fa9b138835eaeb76ea819 646 Packages.bz2
+ 7c27a14fc45ed913a2ad382e0a7b00dd 624 Packages.xz
 SHA256:
- f77422ba5921bcfd9e223cc8be0f28380049d090c3092715c87fda317b526e7d 1005 Packages
- 0bd42c3afe784a12c47637c7d04039547aa37c4baec3ef536d66806480ab7622 552 Packages.gz
- bc45839ece2107d0d70ac753c5896682076c61f92010a1f1da065b579a23563f 638 Packages.bz2
- e94687f502d51372e9dde12fe26c7588098b654295a711dd113d1186a469ddf7 624 Packages.xz
+ b9b4956fadb8db22ea24bb133dd6ed57aca6da8c5c4ebea7e4f90c9e04b17062 1005 Packages
+ 632b6bf3a627c83898b0fa437a98e77b74f4f1f119d4e30eb1ceecbc3f4886fc 553 Packages.gz
+ ae5615099ff9f47c7db12ab2fb1714273fde47cb3624289b7698df648eb6d558 646 Packages.bz2
+ d8c2878c06552625e097d6ada6994dbc8e5cc292675d8ad5911f65912c8ea600 624 Packages.xz
