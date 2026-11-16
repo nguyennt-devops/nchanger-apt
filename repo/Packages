@@ -13,7 +13,7 @@ SHA256: d45a9ad84c1454e71b40f537a0546a5c22205f29a1ff6759fa947dfdd45114d6
 
 Package: com.ios.iosfake
 Name: IOSFake
-Version: 0.1.282
+Version: 0.1.283
 Architecture: iphoneos-arm64
 Conflicts: com.vip.iosfake, com.ios.nchanger, com.vip.ioscore
 X-Reconstruction-Of: com.vip.iosfake/2.0.0
@@ -21,7 +21,8 @@ Description: IOSFake source reconstruction
 Maintainer: IOSFake
 Section: Tweaks
 Depends: ellekit, ldid, com.opa334.libsandy
-Filename: pool/main/n/com.ios.iosfake_0.1.282_iphoneos-arm64.deb
-Size: 17923160
-SHA256: 22849da71623c999cbd66f0910fbac224f537fcbe3a47309633688818283e933
+Icon: https://repo.nguyennt.store/repo/icons/com.ios.iosfake.png
+Filename: pool/main/n/com.ios.iosfake_0.1.283_iphoneos-arm64.deb
+Size: 17923226
+SHA256: 2a801f5649a53a064b99c71191373c4703f2d2c4e32627782cb87e1e153a087e
 
