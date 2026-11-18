@@ -1,16 +1,24 @@
 Package: com.ios.iosauto
 Name: IOSAuto
-Version: 1.0.41
+Version: 1.0.42
 Architecture: iphoneos-arm64
 Section: Development
 Maintainer: Local source reconstruction
 Icon: https://repo.nguyennt.store/repo/icons/com.ios.iosauto.png
 Depends: firmware (>= 15.0), uikittools, mobilesubstrate | ellekit, com.opa334.libsandy
-Description: Independent UIKit app, script workers, system helper and Web IDE
- Source-built reconstruction; original executable and probe code excluded.
-Filename: pool/main/i/com.ios.iosauto_1.0.41_iphoneos-arm64.deb
-Size: 6977812
-SHA256: 6b5f64cc91eca0f9062ee5c64409a7b05227494b1c9e504c63a8d4b33615fc67
+Description: iOS automation with scripts and a Web IDE
+ IOSAuto brings script management, editing and execution together in one
+ iOS automation toolkit. Create and organize scripts on your device, edit
+ them in the app or Web IDE, and run or stop them with access to logs.
+ .
+ Features include screen viewing, device input and automation APIs, with
+ companion components for Safari, accessibility and virtual camera tasks.
+ .
+ Requires iOS 15 or later and the dependencies listed for this package.
+ Feature availability can vary with the device and system environment.
+Filename: pool/main/i/com.ios.iosauto_1.0.42_iphoneos-arm64.deb
+Size: 7065810
+SHA256: fca57b8caa8e3a01e0a45d1aea339adc9c833243aac360501e211670b5298507
 
 Package: com.ios.iosfake
 Name: IOSFake
