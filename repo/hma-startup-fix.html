@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="vi"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HMA Startup Fix</title>
+<style>body{font:17px/1.6 system-ui,sans-serif;max-width:680px;margin:32px auto;padding:0 20px;color:#17253a;background:#f6f8fb}main{padding:24px;border-radius:16px;background:white}h1{line-height:1.2}small{color:#526278}a{color:#175dcc}</style>
+<main><h1>HMA Startup Fix</h1><small>1.0.0 · Rootless jailbreak · iOS 15–16</small>
+<p>Sửa lỗi HMA VPN thoát ngay khi mở do lỗi cấp phát heap trong Go runtime.</p>
+<p><strong>Yêu cầu:</strong> cài sẵn HMA VPN <strong>6.0.1, build 13689</strong>. Gói kiểm tra framework trước khi sửa và từ chối phiên bản hoặc bản app đã thay đổi.</p>
+<p>Đã thử trên iPhone 8, iOS 16.7.16, palera1n rootless. Các máy khác chưa được kiểm chứng. Chưa kiểm tra kết nối VPN; extension tunnel không được sửa trong bản này.</p>
+<p><strong>Cách cài:</strong> thêm <a href="https://repo.nguyennt.store/repo/">https://repo.nguyennt.store/repo/</a> vào Sources của Sileo, refresh rồi tìm <strong>HMA Startup Fix</strong>.</p>
+<p><strong>Gỡ:</strong> xóa gói trong Sileo để khôi phục framework gốc. Nếu HMA đã cập nhật sau khi cài, bộ gỡ giữ nguyên bản app mới và giữ backup.</p>
+<p>Gói chỉ chứa bản sửa và script cài đặt, không chứa app HMA, tài khoản hay giấy phép. Không mở khóa thuê bao. Máy đã được vá thủ công cần khôi phục framework gốc trước khi cài gói.</p>
+<p>Backup được giữ tại <code>/var/jb/var/lib/hma-heap-fix</code>. Có thể áp dụng lại sau khi cài lại HMA nếu framework vẫn đúng phiên bản hỗ trợ.</p>
+</main></html>

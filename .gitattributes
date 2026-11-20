@@ -1,0 +1,12 @@
+repo/Packages -text
+repo/Release -text
+repo/dists/**/Packages -text
+repo/dists/**/Release -text
+*.deb -text
+*.gz -text
+*.bz2 -text
+*.xz -text
+*.sh text eol=lf
+hma-startup-fix/packaging/preinst text eol=lf
+hma-startup-fix/packaging/postinst text eol=lf
+hma-startup-fix/packaging/prerm text eol=lf

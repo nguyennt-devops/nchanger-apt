@@ -1,0 +1,16 @@
+#!/var/jb/bin/sh
+set -eu
+PATH=/var/jb/usr/bin:/var/jb/bin:/usr/bin:/bin:/usr/sbin:/sbin
+export PATH
+ORIGINAL=1b092b0e3fbe1d5f8837d08f7241aea195aec27fc3d01d857acfbf799abb8f0a
+STATE=/var/jb/var/lib/hma-heap-fix
+APPS=$(find /private/var/containers/Bundle/Application -mindepth 2 -maxdepth 2 -type d -name HMASecureVPN.app)
+COUNT=$(printf '%s\n' "$APPS" | grep -c 'HMASecureVPN.app$' || true)
+if [ "$COUNT" != 1 ]; then echo 'HMA Startup Fix: install HMA VPN 6.0.1 build 13689 first.' >&2; exit 1; fi
+TARGET=$APPS/Frameworks/MimicNetworking.framework/MimicNetworking
+[ -f "$TARGET" ] || { echo 'HMA Startup Fix: framework missing' >&2; exit 1; }
+CURRENT=$(sha256sum "$TARGET" | cut -d ' ' -f 1)
+if [ "$CURRENT" = "$ORIGINAL" ]; then exit 0; fi
+if [ -f "$STATE/app-path" ] && [ -f "$STATE/installed.sha256" ] && [ "$(cat "$STATE/app-path")" = "$APPS" ] && [ "$(cat "$STATE/installed.sha256")" = "$CURRENT" ]; then exit 0; fi
+echo "HMA Startup Fix: unsupported or modified framework SHA-256: $CURRENT. Nothing changed." >&2
+exit 1

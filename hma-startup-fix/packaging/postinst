@@ -1,0 +1,4 @@
+#!/var/jb/bin/sh
+set -e
+case "$1" in configure) /var/jb/usr/libexec/hma-heap-fix/install.sh;; esac
+exit 0
