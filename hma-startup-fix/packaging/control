@@ -1,11 +1,11 @@
 Package: store.nguyennt.hmaheapfix
-Name: HMA Startup Fix
-Version: 1.0.0
+Name: HMA Helper
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: NguyenNT <nguyennt-devops@users.noreply.github.com>
 Section: Tweaks
 Depends: firmware (>= 15.0), firmware (<< 17.0), ldid, coreutils, findutils
-Description: Fix Go heap startup crash in HMA VPN 6.0.1 (13689)
+Description: Startup stability for HMA VPN
  Requires an existing HMA VPN installation with the supported framework hash.
  Applies a scoped low-address heap reservation fix and saves an original backup.
  Removing this package restores the original framework when it has not changed.

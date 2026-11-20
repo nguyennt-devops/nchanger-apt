@@ -1,4 +1,4 @@
-HMA Startup Fix 1.0.0
+HMA Helper 1.0.1
 
 Rootless jailbreak package, architecture iphoneos-arm64, iOS 15.x-16.x.
 Requires an existing HMA VPN 6.0.1 build 13689 installation with SHA-256:

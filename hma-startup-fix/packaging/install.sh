@@ -4,7 +4,7 @@ PATH=/var/jb/usr/bin:/var/jb/bin:/usr/bin:/bin:/usr/sbin:/sbin
 export PATH
 PKG=/var/jb/usr/libexec/hma-heap-fix
 STATE=/var/jb/var/lib/hma-heap-fix
-die() { echo "HMA Startup Fix: $*" >&2; exit 1; }
+die() { echo "HMA Helper: $*" >&2; exit 1; }
 hash() { sha256sum "$1" | cut -d ' ' -f 1; }
 mkdir -p "$STATE"
 chmod 700 "$STATE"
@@ -24,7 +24,7 @@ if [ -f "$STATE/app-path" ] && [ -f "$STATE/installed.sha256" ]; then
     INSTALLED=$(cat "$STATE/installed.sha256")
     if [ "$PREVIOUS" = "$APP" ] && [ "$CURRENT" = "$INSTALLED" ]; then
         if [ -f "$FRAME/HmaGoHeapFix.dylib" ] && [ "$(hash "$FRAME/HmaGoHeapFix.dylib")" = "$(hash "$PKG/HmaGoHeapFix.dylib")" ]; then
-            echo 'HMA Startup Fix is already installed.'
+            echo 'HMA Helper is already installed.'
             exit 0
         fi
         die 'helper changed; refusing to overwrite existing installation'
@@ -46,7 +46,7 @@ cleanup() {
     rm -f "$TMP" "$HELPER_TMP"
     if [ "$COMMITTED" = 0 ]; then
         rm -f "$FRAME/HmaGoHeapFix.dylib"
-        echo 'HMA Startup Fix: installation incomplete; original framework retained.' >&2
+        echo 'HMA Helper: installation incomplete; original framework retained.' >&2
     fi
 }
 trap cleanup EXIT
@@ -66,4 +66,4 @@ mv "$HELPER_TMP" "$FRAME/HmaGoHeapFix.dylib"
 mv "$TMP" "$TARGET"
 COMMITTED=1
 [ "$(hash "$TARGET")" = "$EXPECTED" ] || die 'installed framework verification failed; backup kept'
-echo 'HMA Startup Fix installed. Open HMA VPN normally.'
+echo 'HMA Helper installed. Open HMA VPN normally.'

@@ -1,7 +1,7 @@
 {
-  "file": "store.nguyennt.hmaheapfix_1.0.0_iphoneos-arm64.deb",
-  "bytes": 8102,
-  "sha256": "403b29741a97652d586142c5cd2ee522aa52cae3c3c490fa68dd57652a3cbd4e",
+  "file": "store.nguyennt.hmaheapfix_1.0.1_iphoneos-arm64.deb",
+  "bytes": 8084,
+  "sha256": "a60a50be51263b53ff533a91b5a50c80b7337e6bdc39f29dd38fd9c79e446863",
   "originalFrameworkSHA256": "1b092b0e3fbe1d5f8837d08f7241aea195aec27fc3d01d857acfbf799abb8f0a",
   "unsignedPatchedFrameworkSHA256": "76aa2afe5d494622cc314476226be7b4a7a715e2e293858ae63538fe25e12792",
   "helperSHA256": "1f6cbad4bb64bec52d23a47065d489301c6af422cf79f8bde4fcb8693a141904",

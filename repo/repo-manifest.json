@@ -26,65 +26,65 @@
     },
     {
       "package": "store.nguyennt.hmaheapfix",
-      "name": "HMA Startup Fix",
-      "version": "1.0.0",
+      "name": "HMA Helper",
+      "version": "1.0.1",
       "architecture": "iphoneos-arm64",
-      "file": "pool/main/h/store.nguyennt.hmaheapfix_1.0.0_iphoneos-arm64.deb",
-      "bytes": 8102,
-      "sha256": "403b29741a97652d586142c5cd2ee522aa52cae3c3c490fa68dd57652a3cbd4e"
+      "file": "pool/main/h/store.nguyennt.hmaheapfix_1.0.1_iphoneos-arm64.deb",
+      "bytes": 8084,
+      "sha256": "a60a50be51263b53ff533a91b5a50c80b7337e6bdc39f29dd38fd9c79e446863"
     }
   ],
   "indexes": [
     {
       "path": "Packages",
-      "sha256": "b16af01a66548d1b599992e7f96975ec0256111a480c49c0a430434bcd1ed7fb",
-      "bytes": 2550
+      "sha256": "838f8e0ebf31bbff46fcd95edbdeee3bc2e6cc8555cb3e08b83e28eb162cfb5e",
+      "bytes": 2524
     },
     {
       "path": "Packages.gz",
-      "sha256": "a58196439efe88f9636ef8093a6bdf497371cf1f5d82f93abe5c31acec991ebf",
-      "bytes": 1230
+      "sha256": "d64e72b94ce54962ac9eb0e3d57800f847bfc00fb2ffbbf417512b3c752efd23",
+      "bytes": 1216
     },
     {
       "path": "Packages.bz2",
-      "sha256": "f00df1311132b6d767b18837084de436e5bc4fbe3f112aa6a4fc53c39285369b",
-      "bytes": 1328
+      "sha256": "2003254bd084a9678c65d218786f8ca518009a996f2523bb832e2750d9bc2c72",
+      "bytes": 1315
     },
     {
       "path": "Packages.xz",
-      "sha256": "7b83e33fb539fb40480c72d65e893204cec324dddfa96f0894ed770ce54ea572",
-      "bytes": 1316
+      "sha256": "7d202fb596c2fe80078484ceb2007e33b08875e6b981cbbea2d77b2da067fd8c",
+      "bytes": 1300
     },
     {
       "path": "dists/stable/main/binary-iphoneos-arm64/Packages",
-      "sha256": "b16af01a66548d1b599992e7f96975ec0256111a480c49c0a430434bcd1ed7fb",
-      "bytes": 2550
+      "sha256": "838f8e0ebf31bbff46fcd95edbdeee3bc2e6cc8555cb3e08b83e28eb162cfb5e",
+      "bytes": 2524
     },
     {
       "path": "dists/stable/main/binary-iphoneos-arm64/Packages.gz",
-      "sha256": "a58196439efe88f9636ef8093a6bdf497371cf1f5d82f93abe5c31acec991ebf",
-      "bytes": 1230
+      "sha256": "d64e72b94ce54962ac9eb0e3d57800f847bfc00fb2ffbbf417512b3c752efd23",
+      "bytes": 1216
     },
     {
       "path": "dists/stable/main/binary-iphoneos-arm64/Packages.bz2",
-      "sha256": "f00df1311132b6d767b18837084de436e5bc4fbe3f112aa6a4fc53c39285369b",
-      "bytes": 1328
+      "sha256": "2003254bd084a9678c65d218786f8ca518009a996f2523bb832e2750d9bc2c72",
+      "bytes": 1315
     },
     {
       "path": "dists/stable/main/binary-iphoneos-arm64/Packages.xz",
-      "sha256": "7b83e33fb539fb40480c72d65e893204cec324dddfa96f0894ed770ce54ea572",
-      "bytes": 1316
+      "sha256": "7d202fb596c2fe80078484ceb2007e33b08875e6b981cbbea2d77b2da067fd8c",
+      "bytes": 1300
     },
     {
       "path": "Release",
-      "sha256": "7664e4ed2930ba2e71433cdc0b1fbe33ea3003683160dfb977b0dea0b6295dc2",
+      "sha256": "ce134827cd998b94f2ba79d6a4ccd2abacb844d1d94fd1a1a0a0692bfe28e3ac",
       "bytes": 745
     },
     {
       "path": "dists/stable/Release",
-      "sha256": "d21fcabbe40bd6bf7e8e499cad239003ba5601f852568a0ff18b6e7e9da11f44",
+      "sha256": "556b0a71162e0c3afcd270514ab11310cc097e6763da3df66672c5ddcd1a0605",
       "bytes": 961
     }
   ],
-  "generated_at": "2026-11-20T12:27:59.176082+00:00"
+  "generated_at": "2026-11-20T12:37:58.683157+00:00"
 }

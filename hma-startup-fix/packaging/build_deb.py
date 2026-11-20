@@ -11,7 +11,7 @@ ROOT=Path(__file__).resolve().parent.parent
 sys.path.insert(0,str(ROOT))
 from fix.build_fix import add_dependency,DEPENDENCY,ORIGINAL_SHA256
 IDENTIFIER='store.nguyennt.hmaheapfix'
-VERSION='1.0.0'
+VERSION='1.0.1'
 ARCH='iphoneos-arm64'
 
 
