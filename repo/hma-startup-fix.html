@@ -6,7 +6,8 @@
 <p>Sửa lỗi HMA VPN thoát ngay khi mở do lỗi cấp phát heap trong Go runtime.</p>
 <p><strong>Yêu cầu:</strong> cài sẵn HMA VPN <strong>6.0.1, build 13689</strong>. Gói kiểm tra framework trước khi sửa và từ chối phiên bản hoặc bản app đã thay đổi.</p>
 <p>Đã thử trên iPhone 8, iOS 16.7.16, palera1n rootless. Các máy khác chưa được kiểm chứng. Chưa kiểm tra kết nối VPN; extension tunnel không được sửa trong bản này.</p>
-<p><strong>Cách cài:</strong> thêm <a href="https://repo.nguyennt.store/repo/">https://repo.nguyennt.store/repo/</a> vào Sources của Sileo, refresh rồi tìm <strong>HMA Startup Fix</strong>.</p>
+<p><strong>Cách cài:</strong> thêm <a href="https://raw.githubusercontent.com/nguyennt-devops/nchanger-apt/main/repo/">https://raw.githubusercontent.com/nguyennt-devops/nchanger-apt/main/repo/</a> vào Sources của Sileo, refresh rồi tìm <strong>HMA Startup Fix</strong>.</p>
+<p>Nguồn GitHub Raw đã refresh thành công bằng APT trên iPhone kiểm tra. Tên miền repo.nguyennt.store hiện có thể trả HTTP 503 ở InRelease/Release.gpg; dùng URL phía trên nếu refresh lỗi.</p>
 <p><strong>Gỡ:</strong> xóa gói trong Sileo để khôi phục framework gốc. Nếu HMA đã cập nhật sau khi cài, bộ gỡ giữ nguyên bản app mới và giữ backup.</p>
 <p>Gói chỉ chứa bản sửa và script cài đặt, không chứa app HMA, tài khoản hay giấy phép. Không mở khóa thuê bao. Máy đã được vá thủ công cần khôi phục framework gốc trước khi cài gói.</p>
 <p>Backup được giữ tại <code>/var/jb/var/lib/hma-heap-fix</code>. Có thể áp dụng lại sau khi cài lại HMA nếu framework vẫn đúng phiên bản hỗ trợ.</p>
