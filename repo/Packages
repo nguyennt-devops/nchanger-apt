@@ -22,18 +22,18 @@ SHA256: 3d4115e3d69ff183281b34650476c3b231ada09c6e17fc678bb737184bdaf89b
 
 Package: com.ios.iosfake
 Name: IOSFake
-Version: 0.1.285
+Version: 0.1.287
 Architecture: iphoneos-arm64
-Conflicts: com.vip.iosfake, com.ios.nchanger, com.vip.ioscore
+Conflicts: com.vip.iosfake, com.vip.ioscore
 X-Reconstruction-Of: com.vip.iosfake/2.0.0
 Description: IOSFake source reconstruction
 Maintainer: IOSFake
 Section: Tweaks
 Depends: ellekit, ldid, com.opa334.libsandy
 Icon: https://repo.nguyennt.store/repo/icons/com.ios.iosfake.png
-Filename: pool/main/n/com.ios.iosfake_0.1.285_iphoneos-arm64.deb
-Size: 17994204
-SHA256: a5b5d292c4ba1b37d648a984d7eab99933d72008216e9842228f27050b6b3e55
+Filename: pool/main/n/com.ios.iosfake_0.1.287_iphoneos-arm64.deb
+Size: 17996974
+SHA256: db8216e44fd5095d67762b5a5a939e930016296047ef01b9b02f6d47fc7066bc
 
 Package: store.nguyennt.hmaheapfix
 Name: HMA Helper
