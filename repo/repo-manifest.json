@@ -2,8 +2,8 @@
   "repository": "Havoc-style independent Debian packages",
   "suite": "stable",
   "codename": "stable",
-  "origin": "NChanger",
-  "label": "NChanger",
+  "origin": "IOS Service",
+  "label": "IOS Service",
   "signed": false,
   "packages": [
     {
