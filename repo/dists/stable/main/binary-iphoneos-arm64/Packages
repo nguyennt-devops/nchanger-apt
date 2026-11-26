@@ -1,6 +1,6 @@
 Package: com.ios.iosauto
 Name: IOSAuto
-Version: 1.0.45
+Version: 1.0.50
 Architecture: iphoneos-arm64
 Section: Development
 Maintainer: Local source reconstruction
@@ -16,9 +16,9 @@ Description: iOS automation with scripts and a Web IDE
  .
  Requires iOS 15 or later and the dependencies listed for this package.
  Feature availability can vary with the device and system environment.
-Filename: pool/main/i/com.ios.iosauto_1.0.45_iphoneos-arm64.deb
-Size: 7069670
-SHA256: 3d4115e3d69ff183281b34650476c3b231ada09c6e17fc678bb737184bdaf89b
+Filename: pool/main/i/com.ios.iosauto_1.0.50_iphoneos-arm64.deb
+Size: 7130588
+SHA256: 9c74301824cd91b1d5df19c23d5c2e51230fe5e81661ef3c3ccd1502d8c0a54d
 
 Package: com.ios.iosfake
 Name: IOSFake
